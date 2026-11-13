@@ -17,8 +17,7 @@
 }
 
 .hero h1 {
-  padding-top: 10px;
-  padding-bottom: 15px;
+padding: 10px 5px 15px 5px;
   color: white;
 font-size: 2rem;
 }

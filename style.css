@@ -12,14 +12,14 @@
   justify-content: center; /* upar-neeche se center */
   align-items: center; /* left-right se center */
   text-align: center;
-  padding: 0 20px;
+  padding: 40 20px;
   background-color:#2b5052;
 }
 
 .hero h1 {
 padding: 10px 0px 5px 0px;
   color: white;
-font-size: 2rem;
+font-size: 2.2rem;
 }
 
 .hero h2 {

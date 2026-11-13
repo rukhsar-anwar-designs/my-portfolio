@@ -20,13 +20,13 @@
   padding-top: 10px;
   padding-bottom: 15px;
   color: white;
-font-size: 3rem;
+font-size: 2rem;
 }
 
 .hero h2 {
   padding-bottom: 30px; /* heading aur button ke darmiyan gap */
    color: white;
-   font-size: 1.7rem;
+   font-size: 1rem;
 }
 
 .hero button {
@@ -162,7 +162,7 @@ font-size: 3.5rem;
    justify-content: center;
    align-items: center;
    text-align: center;
-   background-color:#e6f3f2;
+   background-color:white;
   color:white;
   padding: 5px 0px 5px 0px;
    gap: 5px;

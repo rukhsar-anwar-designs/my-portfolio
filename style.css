@@ -295,6 +295,21 @@ color:black;
     height: auto;
     padding: 10px;
   }
+  .project_1 h2 {
+  font-size: 1.4rem;
+  line-height: 1.3;
+  padding: 0px 10px;
+}
+  .project_2 h2 {
+  font-size: 1.4rem;
+  line-height: 1.3;
+  padding: 0px 10px;
+}
+ .project_3 h2 {
+  font-size: 1.4rem;
+  line-height: 1.3;
+  padding: 0px 10px;
+}
 }
   .project h2{
     font-size:30px;

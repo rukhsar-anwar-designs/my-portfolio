@@ -15,6 +15,15 @@
   padding: 40 20px;
   background-color:#2b5052;
 }
+.my-photo {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid white;
+  display: block;
+  margin: 0 auto 10px auto;
+}
 
 .hero h1 {
 padding: 8px 0px 10px 0px;
